@@ -1,3 +1,7 @@
+# 说明
+Graylog的中文翻译
+欢迎加入
+
 # The Graylog Documentation
 
 Note
