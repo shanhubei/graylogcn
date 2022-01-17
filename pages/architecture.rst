@@ -1,5 +1,5 @@
 ****************************
-Architectural considerations
+注意事项
 ****************************
 
 There are a few rules of thumb when scaling resources for Graylog:
